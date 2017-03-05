@@ -9,8 +9,6 @@ This repository acts as a hub for an interconnected collection of components hos
 * [Graphical Lyph Editing Widget](https://github.com/open-physiology/lyph-edit-widget)
 * [Prototype Application](https://github.com/open-physiology/prototype-application)
 
-This repository will also host meta-data regarding the development effort started in March 2017, such as the original development plan.
-
 Development of the components above is managed with the help of ZenHub. Install the [Chrome or Firefox extension](https://www.zenhub.com) to add a number of useful tools to GitHub:
 
 * [Our Main ZenHub Board](https://github.com/open-physiology/open-physiology#boards?repos=84000562,60700954,83999711,83989718,83999352,40669551,65717324)
