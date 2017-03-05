@@ -1,6 +1,6 @@
 # Open Physiology
 
-This repository acts as a hub for an interconnected collection of components hosted in other repos:
+This repository acts as a hub for a collection of other repos hosting interconnected components:
 
 * [Manifest](https://github.com/open-physiology/open-physiology-manifest)
 * [Model Library](https://github.com/open-physiology/open-physiology-model)
