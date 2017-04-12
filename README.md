@@ -9,8 +9,9 @@ This repository acts as a hub for a collection of other repos hosting interconne
 * [Graphical Lyph Editing Widget](https://github.com/open-physiology/lyph-edit-widget)
 * [Prototype Application](https://github.com/open-physiology/prototype-application)
 * [Utility Library](https://github.com/open-physiology/utilities)
+* [Project Template](https://github.com/open-physiology/project-template)
 
 Development of the components above is managed with the help of ZenHub. Install the [Chrome or Firefox extension](https://www.zenhub.com) to add a number of useful tools to GitHub:
 
-* [Our Current ZenHub Board](https://github.com/open-physiology/open-physiology#boards?labels:not=epic&repos=87364064,84000562,60700954,83999711,83989718,83999352,40669551,65717324)
+* [Our Current ZenHub Board](https://github.com/open-physiology/open-physiology#boards?labels:not=epic&repos=65717324,40669551,83999352,83989718,83999711,60700954,87940788,84000562,87364064)
 * [Current Sprint Burndown Chart](https://github.com/open-physiology/open-physiology#reports?report=burndown&selectedPipelines=58bc5038a24e37a60b3d636b)
