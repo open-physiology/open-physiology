@@ -9,6 +9,10 @@ This repository acts as a hub for a collection of other repos hosting interconne
 * [Graphical Lyph Editing Widget](https://github.com/open-physiology/lyph-edit-widget)
 * [Prototype Application](https://github.com/open-physiology/prototype-application)
 * [Utility Library](https://github.com/open-physiology/utilities)
+* [Interactive Box Drawing Library](https://github.com/open-physiology/interactive-boxes)
+
+Use the following template repo as a base for new repos. It also contains instructions:
+
 * [Project Template](https://github.com/open-physiology/project-template)
 
 Development of the components above is managed with the help of ZenHub. Install the [Chrome or Firefox extension](https://www.zenhub.com) to add a number of useful tools to GitHub:
